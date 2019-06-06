@@ -1,0 +1,19 @@
+body {
+  font-family: 'Schoolbell', cursive;
+}
+
+
+img {
+ width: 400px;
+ height: 400px;
+ object-fit: cover;
+ margin: 10px;
+ border-radius: 15px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
